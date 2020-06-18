@@ -2,15 +2,13 @@
 
 Der Leser trifft Entscheidungen über den Fortgang der Geschichte.
 
-## Getting Started
+This is a demo app with a short playbook story, navigation between screens and local state management. It can be build as Android- and iOS-App. Flutter Web support is still in beta-phase. If you experience any issues with this app, feel free to send me a note.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+<a href="https://nilskrannig.com/privacy-policy-spielbuch.html">privacy policy</a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Made with love in Lübeck, Germany.
+www.nilskrannig.com
