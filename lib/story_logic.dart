@@ -15,7 +15,7 @@ class StoryLogic {
         choice2: 'Moment, ich laufe lieber.'),
     Story(
         storyTitle:
-            'Nachdem ihr losfahrt, beginnt der Fremde von seiner Mutter zu sprechen. Er wird immer wütender und hämmert auf sein Lenkrad ein. Er bittet dich bebend das Handschuhfach zu öffnen. Du findest ein Jagdmesser, zwei zerteilte Finger und eine CD von Britney Spears. Er greift nach dem Fach.',
+            'Nachdem ihr losfahrt, beginnt der Fremde von seiner Mutter zu sprechen. Er wird immer wütender und hämmert auf sein Lenkrad ein. Er bittet dich bebend das Handschuhfach zu öffnen. Du findest ein Jagdmesser, zwei zerteilte Hände und eine CD von Britney Spears. Er greift nach dem Fach.',
         choice1: 'Ich liebe Britney! Du reichst ihm die CD.',
         choice2: 'Er oder ich! Du stichst ihm das Messer in den Hals.'),
     Story(
