@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:nilskrannig/components/choice_button.dart';
 
 import 'package:nilskrannig/screens/story_screen.dart';
 import 'package:nilskrannig/constants.dart';
@@ -29,17 +30,12 @@ class HomeScreen extends StatelessWidget {
               fontStyle: FontStyle.italic,
             ),
           ),
-          RaisedButton(
+          ChoiceButton(
+            choice: 'Start',
+            color: kAcceptColor,
             onPressed: () {
               Navigator.pushNamed(context, StoryScreen.id);
             },
-            color: kAcceptColor,
-            child: Text(
-              'Start',
-              style: TextStyle(
-                fontSize: 30.0,
-              ),
-            ),
           ),
         ],
       ),
